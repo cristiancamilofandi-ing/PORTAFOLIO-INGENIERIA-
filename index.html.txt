@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Portafolio | Ingeniería Civil</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Cristian Fandiño</h1>
+    <p>Estudiante de Ingeniería Civil</p>
+</header>
+
+<nav>
+    <a href="index.html">Portafolio</a>
+    <a href="bitacora.html">Bitácora</a>
+</nav>
+
+<section>
+    <h2>Perfil Profesional</h2>
+    <p>
+        Estudiante de Ingeniería Civil con interés en saneamiento ambiental,
+        analítica de datos y el uso de herramientas de inteligencia artificial
+        para la optimización de procesos en ingeniería.
+    </p>
+</section>
+
+<section>
+    <h2>Formación Académica</h2>
+    <ul>
+        <li>Ingeniería Civil – Universidad Católica de Colombia</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Habilidades Técnicas</h2>
+    <ul>
+        <li>Saneamiento Ambiental</li>
+        <li>Microsoft Excel</li>
+        <li>Análisis básico de datos</li>
+        <li>Uso de herramientas de IA</li>
+    </ul>
+</section>
+
+<footer>
+    <p>Contacto: correo@ejemplo.com</p>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Bitácora | Saneamiento Ambiental</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Bitácora de Saneamiento Ambiental</h1>
+    <p>Registro semanal de clases</p>
+</header>
+
+<nav>
+    <a href="index.html">Portafolio</a>
+    <a href="bitacora.html">Bitácora</a>
+</nav>
+
+<section>
+    <h2>Semana 1 – Introducción al Saneamiento Ambiental</h2>
+    <p>
+        En esta sesión se abordaron los conceptos básicos del saneamiento ambiental,
+        su importancia en la salud pública y su relación con el desarrollo sostenible.
+        El saneamiento es un componente fundamental de la ingeniería civil, ya que
+        permite mejorar la calidad de vida de la población.
+    </p>
+</section>
+
+<footer>
+    <p>Actualizado semanalmente</p>
+</footer>
+
+</body>
+</html>
